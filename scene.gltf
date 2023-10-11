@@ -1231,12 +1231,12 @@
   ],
   "asset": {
     "extras": {
-      "author": "thunk3d.scanner (https://sketchfab.com/thunk3d.scanner)",
+      "author": "Thunk3D scanner (https://sketchfab.com/Diana123456)",
       "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
-      "source": "https://sketchfab.com/3d-models/leg-foot-c045c1887ebe4521a8e51a967cb9818f",
-      "title": "Leg foot"
+      "source": "https://sketchfab.com/3d-models/leg-foot-37e2802a104141b982e15eda21d425ec",
+      "title": "Leg-foot"
     },
-    "generator": "Sketchfab-12.65.0",
+    "generator": "Sketchfab-14.20.0",
     "version": "2.0"
   },
   "bufferViews": [
@@ -1266,8 +1266,14 @@
       "doubleSided": true,
       "name": "Scene_-_Root",
       "pbrMetallicRoughness": {
-        "metallicFactor": 0.0,
-        "roughnessFactor": 0.43515039508407743
+        "baseColorFactor": [
+          0.7816091954022989,
+          0.6107232253360615,
+          0.41110666951002905,
+          1.0
+        ],
+        "metallicFactor": 0.3309147112933885,
+        "roughnessFactor": 0.5057471264367817
       }
     }
   ],
@@ -1699,21 +1705,21 @@
         1
       ],
       "matrix": [
-        -0.4588107168674469,
-        0.8882892727851868,
-        0.020853919908404548,
+        0.03127472102642059,
+        0.8970559239387511,
+        0.44080895185470603,
         0.0,
-        -0.8738189935684204,
-        -0.4553417563438416,
-        0.17059968411922444,
+        -0.19673681259155273,
+        -0.42687204480171226,
+        0.8826521635055541,
         0.0,
-        0.16103753447532654,
-        0.060050416737794654,
-        0.9851197004318237,
+        0.9799574017524719,
+        -0.11432804912328724,
+        0.16313362121582028,
         0.0,
-        24.845441818237305,
-        -330.69760131835943,
-        369.76318359374994,
+        0.0,
+        0.0,
+        0.0,
         1.0
       ],
       "name": "Sketchfab_model"
