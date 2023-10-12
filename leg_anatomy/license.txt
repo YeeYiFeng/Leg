@@ -1,0 +1,11 @@
+Model Information:
+* title:	Leg anatomy
+* source:	https://sketchfab.com/3d-models/leg-anatomy-d57c2b75ebc74e0bacc2624ec00ec226
+* author:	alfance (https://sketchfab.com/alfance)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Leg anatomy" (https://sketchfab.com/3d-models/leg-anatomy-d57c2b75ebc74e0bacc2624ec00ec226) by alfance (https://sketchfab.com/alfance) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
