@@ -1,0 +1,11 @@
+Model Information:
+* title:	Feet
+* source:	https://sketchfab.com/3d-models/feet-9da9f38f0b324db9b78a79dc45b9352c
+* author:	halimi13744 (https://sketchfab.com/halimi13744)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Feet" (https://sketchfab.com/3d-models/feet-9da9f38f0b324db9b78a79dc45b9352c) by halimi13744 (https://sketchfab.com/halimi13744) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
